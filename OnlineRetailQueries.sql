@@ -856,21 +856,3 @@ CREATE ROLE SecurityAdminRole;
 GRANT ALTER ANY LOGIN TO SecurityAdminRole;
 GRANT ALTER ANY USER TO SecurityAdminRole;
 GRANT ALTER ANY ROLE TO SecurityAdminRole;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
